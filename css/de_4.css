@@ -1,0 +1,72 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+.title1{
+    font-size: 33px;
+    margin-top: 54px;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.gachduoi1{
+    margin-top: 14px;
+    height: 1px;
+    margin-bottom: 26px;
+}
+.cot_hang{
+    display: flex;
+    margin: 19px;
+    margin-right: 182px;
+}
+.doanvan1{
+    margin-right: 10px;
+}
+.bongden{
+    padding-left: 230px;
+}
+.gachduoi2 {
+    color: whitesmoke;
+}
+.gachduoi3{
+    margin-top: 14px;
+    height: 1px;
+    margin-bottom: 26px;
+}
+.title2{
+    font-size: 33px;
+    margin-top: 54px;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+._1khoi{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.trai{
+    margin-left: 252px;
+}
+.giua{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.phai{
+    margin-right: 252px;
+}
+h5{
+    margin-top: 30px;
+    margin-bottom: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a{
+    text-decoration: none;
+    color: red;
+}
+.doanvan2{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-align: justify;
+    padding-right: 20px;
+}
